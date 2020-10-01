@@ -1,4 +1,5 @@
 # Clean Architecture
+![clean_architecture](https://ichi.pro/max/724/1*B7LkQDyDqLN3rRSrNYkETA.jpeg)
 ## 핵심
 ### 프레임워크로 부터 독립하세요
 아키텍쳐는 프레임워크에 의존하면 안됩니다. 최소한의 노력으로 새로운 프레임워크를 적용할 수 있어야 합니다.
