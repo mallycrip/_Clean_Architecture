@@ -1,5 +1,5 @@
 # Clean Architecture
-![clean_architecture](https://ichi.pro/max/724/1*B7LkQDyDqLN3rRSrNYkETA.jpeg)
+![clean_architecture](https://vrgsoft.net/wp-content/uploads/2017/12/fe8c82a32b1548b1a297187e24ae755a.png)
 ## 핵심
 ### 프레임워크로 부터 독립하세요
 아키텍쳐는 프레임워크에 의존하면 안됩니다. 최소한의 노력으로 새로운 프레임워크를 적용할 수 있어야 합니다.
@@ -14,3 +14,6 @@ Adapter, Converter은 레이어 내부의 세부사항이 다른 레이어로 �
 DDD의 Bounded Context를 좋은 형태로 구현할 수 있도록 해줍니다.
 ### DIP
 고 수준의 모듈이 저 수준 모듈에 의존하면 안됩니다. 상호가 추상화에 의존하도록 하십시요.
+
+# References
+https://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html
